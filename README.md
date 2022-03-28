@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# <p align="center " style="color:tomato"> I'M BILAL</P>
+# <p align="center " style="background-color:red;"> I'M BILAL</P>
 ### <a  margin-right="50%"> ![image](https://user-images.githubusercontent.com/99627537/159126020-871d847d-0332-4f87-a6aa-b510be578695.png)</a>
 
 
