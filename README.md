@@ -1,23 +1,20 @@
-### Hi there 👍
+<h3 align="center">
+ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Bilal</a> 👋
+</h3>
 
-## <p align="center " style="color:#171515,;">:small_orange_diamond::small_orange_diamond::small_orange_diamond: **I'M BILAL**:small_orange_diamond::small_orange_diamond::small_orange_diamond: <span style="font-size:22px">
-</span></P>
-###  <a  margin-right="-25%"> ![image:color🟥](https://user-images.githubusercontent.com/99627537/159126020-871d847d-0332-4f87-a6aa-b510be578695.png)</a>
+- I love developing creative websites.
+- I am enthusiastic about meeting new people and developing projects with them
+  I can find practical solutions to problems, have a passion for learning and adapt to teamwork.
 
-![BILAL's GitHub stats](https://github-readme-stats.vercel.app/api?username=REFLESHONEONE&show_icons=true&theme=radical)
-[![top-sm](https://github-readme-stats.vercel.app/api/top-langs/?username=REFLESHONEONE&layout=compact)](https://github.com/REFLESHONEONE/github-readme-stats&show_icons=true&theme=radius)
-
-
-## <p style="color:#171515;"> Languages I Use  :white_check_mark:
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://smartpro.com.tr/wp-content/uploads/2020/02/javascript-nedir-javascript-kodlari.jpg" alt="my banner"></a>
 </p>
 
+## 🌱 I'm currently learning
 
- 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30" height="30" border-radius="5px" align="left">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30" border-radius="5px" align="left">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30" border-radius="5px" align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="30" height="30" border-radius="5px" align="left">
-   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="30" height="30" border-radius="5px" align="left">
+- JavaScript
+- OOP / object-oriented programming
 
-   </br> </br>
+## 💼 Languages and Tools
 
+<p align="left" dir="auto"> <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>  <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://reactjs.org/" rel="nofollow"> <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" style="max-width: 100%;"></a> </a> </p>
