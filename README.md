@@ -32,8 +32,8 @@
 <h3 align="left">GitHub İstatistikleri</h3>
 
 <p hizalama="sol">
-   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=REFLESHONEONE&show_icons=true&theme=tokyonight" />
-   <img width="%48" src="https://github-readme-streak-stats.herokuapp.com/?user=REFLESHONEONE&theme=tokyonight" />
+   <img width="35%" src="https://github-readme-stats.vercel.app/api?username=REFLESHONEONE&show_icons=true&theme=tokyonight" />
+   <img width="%35" src="https://github-readme-streak-stats.herokuapp.com/?user=REFLESHONEONE&theme=tokyonight" />
    
    [![ REFLESHONEONE'nın github aktivite grafiği ](https://activity-graph.herokuapp.com/graph?username=REFLESHONEONE&theme=react-dark)](https://git.io/REFLESHONEONE)
 </p>
