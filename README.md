@@ -7,7 +7,7 @@
   I can find practical solutions to problems, have a passion for learning and adapt to teamwork.
 
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://smartpro.com.tr/wp-content/uploads/2020/02/javascript-nedir-javascript-kodlari.jpg" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/teepublic/image/private/s--y_rRiRKy--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1539274051/production/designs/3302114_0.jpg" alt="my banner"></a>
 </p>
 <div align="center">
    
