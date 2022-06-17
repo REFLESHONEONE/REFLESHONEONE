@@ -7,7 +7,7 @@
   I can find practical solutions to problems, have a passion for learning and adapt to teamwork.
 
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/56/93/24/5693248177442105d6fac6b05d1d7418.gif" alt="my banner"></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" alt="my banner"></a>
 </p>
 <div align="center">
    
