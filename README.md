@@ -6,9 +6,7 @@
 - I am enthusiastic about meeting new people and developing projects with them
   I can find practical solutions to problems, have a passion for learning and adapt to teamwork.
 
-<p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" alt="my banner"></a>
-</p>
+
 <div align="center">
    
    <a href="https://github.com/REFLESHONEONE" target="_blank">
